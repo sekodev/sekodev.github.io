@@ -1,4 +1,4 @@
-[bilgi](../../../bilgiWeb)
+[Games](games/index.md)
 
 [sozluk](../../../sozluk) - localization library for Solar2D
 
