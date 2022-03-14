@@ -1,3 +1,3 @@
 [bilgi](../../../bilgiWeb)
 
-[Gizlilik Politikası](gizlilikPolitikası.md) / [Privacy Policy](privacyPolicy.md)
+[Gizlilik Politikası](gizlilikPolitikasi.md) / [Privacy Policy](privacyPolicy.md)
