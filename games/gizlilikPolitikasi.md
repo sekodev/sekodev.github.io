@@ -19,9 +19,9 @@ Uygulamalar'ı indirdiğiniz veya kullandığınızda cihazınızdan toplanan ve
 
 Platformlar'a ait gizlilik politikalarına ulaşmak için aşağıdaki bağlantıları kullanabilirsiniz.
 
-Google Play Store - https://policies.google.com/privacy?hl=tr-TR
+[Google Play Store](https://policies.google.com/privacy?hl=tr-TR)
 
-App Store - https://www.apple.com/tr/legal/privacy/tr/
+[App Store](https://www.apple.com/tr/legal/privacy/tr/)
 <br><br>
 
 Yukarıda belirtilen veriler dışında Sleepy Bug tarafından geliştirilen Uygulamalar'da hakkınızda herhangi bir kişisel veri toplanmamaktadır.
