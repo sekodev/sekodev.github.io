@@ -1,6 +1,6 @@
 # Gizlilik Politikası
 
-Bu Gizlilik Politikası Siz ve "Veri Sorumlusu" olarak Sleepy Bug Studio ("Sleepy Bug") arasında yürürlüğe girmiştir. Bu kapsamda, işbu Gizlilik Politikası'nın amacı, Sleepy Bug'ın oyunlarının/uygulamalarının(bundan sonra "Uygulamalar" olarak anılacaktır.) kullanımı ile bağlantılı olarak tarafınızdan sağlanan verilerin toplanması, işlenmesi ve kullanımı ile bunların aktarımının derecesi, amacı ve kapsamı hakkında bilgi vermektir. Bu gizlilik bildiriminin amacı, Uygulamalar'ı kullanan kullanıcıların kişisel verilerinin işlenmesi hakkında bilgi vermektir. Uygulamalar'ı kullandığınızda; veya herhangi bir şekilde Sleepy Bug ile iletişim kurduğunuzda Sleepy Bug, mevcut teknik imkanlar dahilinde bilgi ve işlemin niteliğine uygun olarak hakkınızda bilgi toplayabilir. Kişisel bilgilerinizin ve verilerinizin, bu Gizlilik Politikası'nda belirtilen şekil ve amaçlarla sınırlı olarak, Sleepy Bug ve/veya Sleepy Bug aracılığıyla sınırlı bir şekilde kullanılabileceğini kabul, beyan ve taahhüt edersiniz. 
+Bu Gizlilik Politikası Kullanıcı("Siz", "Oyuncu") ve "Veri Sorumlusu" olarak Sleepy Bug Studio ("Sleepy Bug") arasında yürürlüğe girmiştir. Bu kapsamda, işbu Gizlilik Politikası'nın amacı, Sleepy Bug'ın oyunlarının/uygulamalarının(bundan sonra "Uygulamalar" olarak anılacaktır.) kullanımı ile bağlantılı olarak tarafınızdan sağlanan verilerin toplanması, işlenmesi ve kullanımı ile bunların aktarımının derecesi, amacı ve kapsamı hakkında bilgi vermektir. Bu gizlilik bildiriminin amacı, Uygulamalar'ı kullanan kullanıcıların kişisel verilerinin işlenmesi hakkında bilgi vermektir. Uygulamalar'ı kullandığınızda; veya herhangi bir şekilde Sleepy Bug ile iletişim kurduğunuzda Sleepy Bug, mevcut teknik imkanlar dahilinde bilgi ve işlemin niteliğine uygun olarak hakkınızda bilgi toplayabilir. Kişisel bilgilerinizin ve verilerinizin, bu Gizlilik Politikası'nda belirtilen şekil ve amaçlarla sınırlı olarak, Sleepy Bug ve/veya Sleepy Bug aracılığıyla sınırlı bir şekilde kullanılabileceğini kabul, beyan ve taahhüt edersiniz. 
 <br><br>
 
 ## Verileriniz
@@ -12,9 +12,9 @@ Bizimle iletişime geçtiğiniz takdirde, seçtiğiniz platforma göre hakkını
 - Twitter: Herkese açık profilinizde yer alan bilgileriniz,
 - e-posta: e-posta adresiniz.
 
-Yukarıda listelediğimiz iletişim yöntemlerinde yer alan ve iletişim başlatmak/sürdürmek amacıyla bizimle paylaşmayı kabul ettiğiniz iletişim bilgileriniz Sleepy Bug tarafından Sizinle iletişim kurma amacı dışında saklanmaz, işlenmez ve üçüncü şahıslarla paylaşılmaz.
+İletişim başlatmak/sürdürmek amacıyla bizimle paylaşmayı kabul ettiğiniz iletişim bilgileriniz Sleepy Bug tarafından Sizinle iletişim kurma amacı dışında saklanmaz, işlenmez ve üçüncü taraflarla paylaşılmaz.
 
-Ayrıca iletişim süresince bizimle paylaştığınız bilgiler ve/veya veriler Uygulamalar'ı geliştirmek, Uygulamalar'ı kullanırken yaşadığınız sorunlara çözüm bulmak ve sorularınızı cevaplamak için saklanabilir ve kullanılabilir.
+İletişim süresince bizimle paylaştığınız veriler Uygulamalar'ı geliştirmek, Uygulamalar'ı kullanırken yaşadığınız sorunlara çözüm bulmak ve sorularınızı cevaplamak için saklanabilir ve kullanılabilir.
 <br><br>
 
 Uygulamalar'ı indirdiğiniz veya kullandığınızda cihazınızdan toplanan veriler, Uygulamalar'ı indirdiğiniz Google Play ve App Store'un("Platformlar") gizlilik politikalarıyla sınırlıdır. Bu veriler Platformlar'a sağladığınız izinler kapsamında toplanmaktadır.
@@ -49,4 +49,4 @@ Bu Gizlilik Politikası gerek görüldüğü durumlarda değişikliğe uğrayabi
 Gizlilik Politikası ile ilgili herhangi bir sorunuz veya öneriniz varsa [info@meetling.io](mailto:info@meetling.io) adresinden bizimle iletişime geçebilirsiniz.
 <br><br>
 
-Bu Gizlilik Politikası 19.03.2022 tarihi itibariyle geçerlidir.
+Bu Gizlilik Politikası 20.03.2022 tarihi itibariyle geçerlidir.
