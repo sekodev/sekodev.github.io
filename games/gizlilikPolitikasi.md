@@ -5,14 +5,14 @@ Bu Gizlilik Politikası Kullanıcı("Siz", "Oyuncu") ve "Veri Sorumlusu" olarak 
 
 ## Verileriniz
 
-Sleepy Bug tarafından geliştirilen Uygulamalar'da bizimle iletişime geçmeyi tercih ettiğiniz takdirde hakkınızda bazı veriler Sizinle iletişimi sürdürmek amacıyla görüntülenebilir ve kullanılabilir.
+Sleepy Bug tarafından geliştirilen Uygulamalar'da bizimle iletişime geçmeyi tercih ettiğiniz takdirde hakkınızda bazı veriler Sizinle iletişim kurmak amacıyla görüntülenebilir, saklanabilir ve kullanılabilir.
 
-Bizimle iletişime geçtiğiniz takdirde, seçtiğiniz platforma göre hakkınızda görüntüleyebileceğimiz ve kullanabileceğimiz veriler şunlardır:
+Bizimle iletişime geçtiğiniz takdirde, seçtiğiniz platforma göre hakkınızda görüntüleyebileceğimiz, saklayabileceğimiz ve kullanabileceğimiz veriler şunlardır:
 - Facebook: Herkese açık profilinizde yer alan bilgileriniz,
 - Twitter: Herkese açık profilinizde yer alan bilgileriniz,
 - e-posta: e-posta adresiniz.
 
-İletişim başlatmak/sürdürmek amacıyla bizimle paylaşmayı kabul ettiğiniz iletişim bilgileriniz Sleepy Bug tarafından Sizinle iletişim kurma amacı dışında saklanmaz, işlenmez ve üçüncü taraflarla paylaşılmaz.
+Bizimle paylaşmayı kabul ettiğiniz iletişim bilgileriniz Sleepy Bug tarafından sadece Sizinle iletişim kurma amacıyla saklanabilir, işlenebilir ve kullanılabilir.
 
 İletişim süresince bizimle paylaştığınız veriler Uygulamalar'ı geliştirmek, Uygulamalar'ı kullanırken yaşadığınız sorunlara çözüm bulmak ve sorularınızı cevaplamak için saklanabilir ve kullanılabilir.
 <br><br>
