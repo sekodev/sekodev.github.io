@@ -1,5 +1,5 @@
 [bilgi](../../../bilgiWeb)
 
-[Gizlilik Politikası](gizlilikPolitikasi.md) / [Privacy Policy](privacyPolicy.md)
+[Gizlilik Politikası](privacy/gizlilikPolitikasi.md) / [Privacy Policy](privacy/privacyPolicy.md)
 
 [İletişim](mailto:info@meetling.io)
