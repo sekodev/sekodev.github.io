@@ -7,7 +7,7 @@ Sleepy Bug tarafından geliştirilen Uygulamalar'dan herhangi birini indirdiğin
 
 ## Gizliliğiniz
 
-Detaylı bilgi için lütfen [Gizlilik Politikası](gizlilikPolitikasi.md) sayfamızı inceleyin.
+Detaylı bilgi için lütfen [Gizlilik Politikası](../games/privacy/gizlilikPolitikasi.md) sayfamızı inceleyin.
 <br><br>
 
 ## Uygulamalar'ın Kullanımı
@@ -18,6 +18,7 @@ Uygulamalar'ı herhangi bir anda değiştirebilir veya Google Play ve/veya App S
 - Kullanıcı'nın veya Geliştirici'nin yaşadığı teknik sorunlar sebebiyle,
 - Tecrübenizi iyileştirmek amacıyla,
 - Uygulamalar'ı sürdürmenin Geliştirici açısından uygulanabilir olmaktan çıkması durumunda,
+- Size sunduğumuz servisleri değiştirmemiz gerektiği durumda,
 - Yasal yükümlülükler nedeniyle Uygulamalar'ı değiştirmemiz, geliştirmeyi durdurmamız ve/veya Platformlar üzerinden kaldırmamız gerektiği durumlar sebebiyle.
 
 Sleepy Bug olarak Uygulamalar'ın olabilecek en kullanışlı ve verimli sürümlerini üretmeyi önemsiyoruz. Bu sebeple, Uygulamalar'a uygun gördüğümüz değişiklikleri yapma, Uygulamalar'ın ücretlendirme esaslarını değiştirme vb. haklarımızı saklı tutuyoruz. Uygulamalar'ın bakım, güncelleme veya diğer teknik sebepler dolayısıyla erişiminize kapandığı durumlar oluşabilir. Bu durum planlanmış veya planlanmamış süreçlerden oluşabilir. 
@@ -38,7 +39,7 @@ Uygulamalar'ı kopyalamamalı ve farklı platformlarda dağıtmamalısınız. Sl
 
 ## Kullanım Şartları'nda Yapılacak Değişiklikler
 
-Kullanım Şartları gerek görüldüğü durumlarda değişikliğe uğrayabilir. Kullanım Şartları'nda herhangi bir değişiklik olduğu takdirde yine bu sayfadan yayınlanacaktır.
+Kullanım Şartları ihtiyaç görüldüğü takdirde değişikliğe uğrayabilir. Kullanım Şartları'nda herhangi bir değişiklik olduğu takdirde yine bu sayfadan yayınlanacaktır.
 <br><br>
 
 ## İletişim
