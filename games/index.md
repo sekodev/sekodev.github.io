@@ -1,4 +1,4 @@
-[< Geri](../games/)
+[< Geri](../../..)
 <br><br>
 
 [bilgi](../../../bilgiWeb)
