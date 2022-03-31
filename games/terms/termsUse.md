@@ -7,7 +7,7 @@ By downloading or using Applications developed by Sleepy Bug, these terms will a
 
 ## Your Privacy
 
-Please refer to our [Privacy Policy](../games/privacy/privacyPolicy.md) for more information.
+Please refer to our [Privacy Policy](../../games/privacy/privacyPolicy.md) for more information.
 <br><br>
 
 ## Using Our Applications
