@@ -15,7 +15,8 @@ Detaylı bilgi için lütfen [Gizlilik Politikası](gizlilikPolitikasi.md) sayfa
 Uygulamalar'ı kullanırken Internet bağlantınız, kullanımınız ve/veya olası mobil veri kullanımı ve kullanım bedelleri sizin sorumluluğunuzdadır. Uygulamalar'ı kullanmadan önce veri kullanım bedelleriyle ilgili operatörünüzden bilgi almanızı önemle rica ederiz.
 
 Uygulamalar'ı herhangi bir anda değiştirebilir veya Google Play ve/veya App Store'dan("Platformlar") kaldırabiliriz. Sebepleri, aşağıda listelenenlerle sınırlı olmamak koşuluyla, şunlar olabilir:
-- Kullanıcı'nın veya Geliştirici'nin yaşadığı teknik sorunlar karşısında tecrübenizi iyileştirmek amacıyla,
+- Kullanıcı'nın veya Geliştirici'nin yaşadığı teknik sorunlar sebebiyle,
+- Tecrübenizi iyileştirmek amacıyla,
 - Uygulamalar'ı sürdürmenin Geliştirici açısından uygulanabilir olmaktan çıkması durumunda,
 - Yasal yükümlülükler nedeniyle Uygulamalar'ı değiştirmemiz, geliştirmeyi durdurmamız ve/veya Platformlar üzerinden kaldırmamız gerektiği durumlar sebebiyle.
 
