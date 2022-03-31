@@ -2,6 +2,7 @@
 <br><br>
 
 [bilgi](../../../bilgiWeb)
+<br><br>
 
 ### Türkçe
 
@@ -10,6 +11,7 @@
 [Gizlilik Politikası](privacy/gizlilikPolitikasi.md)
 
 [İletişim](mailto:info@meetling.io)
+<br><br>
 
 ### English
 
