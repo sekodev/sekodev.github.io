@@ -7,7 +7,7 @@ Sleepy Bug tarafından geliştirilen Uygulamalar'dan herhangi birini indirdiğin
 
 ## Gizliliğiniz
 
-Detaylı bilgi için lütfen [Gizlilik Politikası](../games/privacy/gizlilikPolitikasi.md) sayfamızı inceleyin.
+Detaylı bilgi için lütfen [Gizlilik Politikası](../../games/privacy/gizlilikPolitikasi.md) sayfamızı inceleyin.
 <br><br>
 
 ## Uygulamalar'ın Kullanımı
