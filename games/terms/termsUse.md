@@ -46,7 +46,7 @@ We may update Terms of Use from time to time. Thus, you are advised to review th
 
 ## Contact Us
 
-If you have any questions or suggestions about our Terms of Use, do not hesitate to contact us at info@meetling.io.
+If you have any questions or suggestions about our Terms of Use, do not hesitate to contact us at [info.sleepybug@gmail.com](mailto:info.sleepybug@gmail.com).
 <br><br>
 
-This Terms of Use are effective as of 31.03.2022(March 31, 2022).
+This Terms of Use are effective as of 22.05.2022(May 22, 2022).

@@ -46,7 +46,7 @@ Bu Gizlilik Politikası gerek görüldüğü durumlarda değişikliğe uğrayabi
 
 ## İletişim
 
-Gizlilik Politikası ile ilgili herhangi bir sorunuz veya öneriniz varsa [info@meetling.io](mailto:info@meetling.io) adresinden bizimle iletişime geçebilirsiniz.
+Gizlilik Politikası ile ilgili herhangi bir sorunuz veya öneriniz varsa [info.sleepybug@gmail.com](mailto:info.sleepybug@gmail.com) adresinden bizimle iletişime geçebilirsiniz.
 <br><br>
 
-Bu Gizlilik Politikası 22.03.2022(22 Mart 2022) tarihi itibariyle geçerlidir.
+Bu Gizlilik Politikası 22.05.2022(22 Mayıs 2022) tarihi itibariyle geçerlidir.

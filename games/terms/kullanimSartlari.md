@@ -44,7 +44,7 @@ Kullanım Şartları ihtiyaç görüldüğü takdirde değişikliğe uğrayabili
 
 ## İletişim
 
-Kullanım Şartları ile ilgili herhangi bir sorunuz veya öneriniz varsa [info@meetling.io](mailto:info@meetling.io) adresinden bizimle iletişime geçebilirsiniz.
+Kullanım Şartları ile ilgili herhangi bir sorunuz veya öneriniz varsa [info.sleepybug@gmail.com](mailto:info.sleepybug@gmail.com) adresinden bizimle iletişime geçebilirsiniz.
 <br><br>
 
-Kullanım Şartları 31.03.2022(31 Mart 2022) tarihi itibariyle geçerlidir.
+Kullanım Şartları 22.05.2022(22 Mayıs 2022) tarihi itibariyle geçerlidir.
