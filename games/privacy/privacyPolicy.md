@@ -48,4 +48,4 @@ We may update this Privacy Policy from time to time. Thus, You are advised to re
 
 If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact Us at [info.sleepybug@gmail.com](mailto:info.sleepybug@gmail.com).
 
-This Privacy Policy is effective as of 25.03.2022(March 25, 2022)
+This Privacy Policy is effective as of 22.05.2022(May 22, 2022)
