@@ -10,7 +10,7 @@
 
 [Gizlilik Politikası](privacy/gizlilikPolitikasi.md)
 
-[İletişim](mailto:info@meetling.io)
+[İletişim](mailto:info.sleepybug@gmail.com)
 <br><br>
 
 ### English
@@ -19,4 +19,4 @@
 
 [Privacy Policy](privacy/privacyPolicy.md)
 
-[Contact](mailto:info@meetling.io)
+[Contact](mailto:info.sleepybug@gmail.com)
