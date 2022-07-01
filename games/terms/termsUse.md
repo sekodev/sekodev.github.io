@@ -1,3 +1,7 @@
+Türkçe metin için [tıklayın](../../games/terms/kullanimSartlari.md).
+
+For Turkish version, click [here](../../games/terms/kullanimSartlari.md).
+<br><br>
 # Terms of Use
 
 This Terms of Use outline the rules and regulations for the use of Sleepy Bug Studio's("Sleepy Bug", "We", "Our", "Us") applications/games(hereinafter referred to as "Applications").
