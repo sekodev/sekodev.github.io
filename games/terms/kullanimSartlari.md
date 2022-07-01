@@ -1,3 +1,7 @@
+For English version, click [here](../../games/terms/termsUse.md).
+
+İngilizce metin için [tıklayın](../../games/terms/termsUse.md).
+<br><br>
 # Kullanım Şartları
 
 Kullanım Şartları, Sleepy Bug Studio("Sleepy Bug", "Geliştirici", "Biz") ile Kullanıcı("Siz", "Kullanıcı") arasında yapılan ve Sleepy Bug tarafından geliştirilen oyunların/uygulamaların("Uygulamalar") kullanımıyla ilgili kural ve düzenlemeleri belirleyen belgedir. 
