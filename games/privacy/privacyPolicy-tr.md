@@ -1,6 +1,6 @@
-For English version, click [here](../../games/privacy/privacyPolicy.md).
+For English version, click [here](../../games/privacy/privacyPolicy-en.md).
 
-İngilizce metin için [tıklayın](../../games/privacy/privacyPolicy.md).
+İngilizce metin için [tıklayın](../../games/privacy/privacyPolicy-en.md).
 <br><br>
 # Gizlilik Politikası
 
