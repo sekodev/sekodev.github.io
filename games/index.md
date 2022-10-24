@@ -6,17 +6,17 @@
 
 ### Türkçe
 
-[Kullanım Şartları](terms/kullanimSartlari.md)
+[Kullanım Şartları](terms/termsUse-tr.md)
 
-[Gizlilik Politikası](privacy/gizlilikPolitikasi.md)
+[Gizlilik Politikası](privacy/privacyPolicy-tr.md)
 
 [İletişim](mailto:info.sleepybug@gmail.com)
 <br><br>
 
 ### English
 
-[Terms of Use](terms/termsUse.md)
+[Terms of Use](terms/termsUse-en.md)
 
-[Privacy Policy](privacy/privacyPolicy.md)
+[Privacy Policy](privacy/privacyPolicy-en.md)
 
 [Contact](mailto:info.sleepybug@gmail.com)
