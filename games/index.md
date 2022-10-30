@@ -4,6 +4,9 @@
 [bilgi](../../../bilgiWeb)
 <br><br>
 
+[OpenBilgi](https://github.com/sekodev/OpenBilgi)
+<br><br>
+
 ### Türkçe
 
 [Kullanım Şartları](terms/termsUse-tr.md)
