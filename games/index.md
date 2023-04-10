@@ -1,10 +1,11 @@
 [< Geri](../../..)
 <br><br>
 
-[bilgi](../../../bilgiWeb)
-<br><br>
+[bilgi](../../../bilgiWeb) - roguelike trivia game
 
-[OpenBilgi](https://github.com/sekodev/OpenBilgi)
+[OpenBilgi](https://github.com/sekodev/OpenBilgi) - Open source version of _bilgi_
+
+[sozluk](https://github.com/sekodev/sozluk) - localization library for Solar2D
 <br><br>
 
 ### Türkçe
