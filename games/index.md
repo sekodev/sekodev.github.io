@@ -28,12 +28,7 @@ Snowball Menace
 Highway Zombies: Massacre ([Gameplay trailer](https://www.youtube.com/watch?v=QPdXhhHLx8I))
 <br><br>
 
-### Türkçe
+[Terms of Use](terms/termsUse-en.md) / [Privacy Policy](privacy/privacyPolicy-en.md) / [Contact](mailto:info.sleepybug@gmail.com)
 
 [Kullanım Şartları](terms/termsUse-tr.md) / [Gizlilik Politikası](privacy/privacyPolicy-tr.md) / [İletişim](mailto:info.sleepybug@gmail.com)
-<br><br>
-
-### English
-
-[Terms of Use](terms/termsUse-en.md) / [Privacy Policy](privacy/privacyPolicy-en.md) / [Contact](mailto:info.sleepybug@gmail.com)
 <br><br>
