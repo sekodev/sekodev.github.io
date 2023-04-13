@@ -1,11 +1,8 @@
-[Games and related stuff](games/index.md)
-<br><br>
+[Games](games/index.md)
 
-[GitHub repo](https://github.com/sekodev)
-<br><br>
+[GitHub](https://github.com/sekodev)
 
 [Medium](https://sekodev.medium.com/)
-<br><br>
 
 [Twitter](https://twitter.com/sekodev)
 
