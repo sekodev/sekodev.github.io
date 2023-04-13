@@ -10,6 +10,8 @@
 
 ### Previous games
 
+#### iOS & Android
+
 John Raven: The Curse of the Blue Butterfly ([Gameplay](https://youtu.be/EA6jV-IBJ6Y) / [Cinematic trailer](https://www.youtube.com/watch?v=r3gwMfLph1I))
 
 Tales of The Sanctuary ([Gameplay trailer](https://youtu.be/mRIVhuGj0E8))
@@ -17,6 +19,9 @@ Tales of The Sanctuary ([Gameplay trailer](https://youtu.be/mRIVhuGj0E8))
 Find My Stuff (alternative: _Hidden Objects: Where is my stuff?_)
 
 Fantasy Streetball
+<br><br>
+
+#### J2ME & BlackBerry
 
 Snowball Menace
 
