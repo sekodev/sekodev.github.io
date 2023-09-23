@@ -28,6 +28,8 @@ Below you can find links to the privacy policies of the Platforms.
 [Google Play Store](https://policies.google.com/privacy?hl=en-US)
 
 [App Store](https://www.apple.com/legal/privacy/en-ww/)
+
+[Amazon](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ)
 <br><br>
 
 Other than the information listed above, We do not collect any personal information when You use Applications made by Sleepy Bug.
