@@ -28,6 +28,8 @@ Platformlar'a ait gizlilik politikalarına ulaşmak için aşağıdaki bağlant�
 [Google Play Store](https://policies.google.com/privacy?hl=tr-TR)
 
 [App Store](https://www.apple.com/tr/legal/privacy/tr/)
+
+[Amazon](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ)
 <br><br>
 
 Yukarıda belirtilen veriler dışında Sleepy Bug tarafından geliştirilen Uygulamalar'da hakkınızda herhangi bir kişisel veri toplanmamaktadır.
