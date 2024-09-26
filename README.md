@@ -4,6 +4,6 @@
 
 [Medium](https://sekodev.medium.com/)
 
-[Twitter](https://twitter.com/sekodev)
+[X/Twitter](https://x.com/sekodev/)
 
 [LinkedIn](https://www.linkedin.com/in/serkanaksit/)
