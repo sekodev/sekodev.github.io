@@ -13,7 +13,7 @@ If You choose to get in contact with Sleepy Bug, either through Applications or 
 
 In case you contact Us, the information we can view, store and use based on your choice of communication method is as follows:
 - Facebook: Information on your public profile,
-- Twitter: Information on your public profile,
+- X: Information on your public profile,
 - e-mail: Your e-mail address.
 
 The contact information You choose to provide will only be stored, processed and used to communicate with You.
