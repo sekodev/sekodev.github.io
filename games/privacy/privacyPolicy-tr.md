@@ -13,7 +13,7 @@ Sleepy Bug tarafından geliştirilen Uygulamalar'da bizimle iletişime geçmeyi 
 
 Bizimle iletişime geçtiğiniz takdirde, seçtiğiniz platforma göre hakkınızda görüntüleyebileceğimiz, saklayabileceğimiz ve kullanabileceğimiz veriler şunlardır:
 - Facebook: Herkese açık profilinizde yer alan bilgileriniz,
-- Twitter: Herkese açık profilinizde yer alan bilgileriniz,
+- X: Herkese açık profilinizde yer alan bilgileriniz,
 - e-posta: e-posta adresiniz.
 
 Bizimle paylaşmayı kabul ettiğiniz iletişim bilgileriniz Sleepy Bug tarafından sadece Sizinle iletişim kurma amacıyla saklanabilir, işlenebilir ve kullanılabilir.
