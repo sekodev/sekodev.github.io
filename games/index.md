@@ -4,7 +4,7 @@
 [bilgi](../../../bilgiWeb) - roguelike trivia game
 
 [OpenBilgi](https://github.com/sekodev/OpenBilgi) - Open source version of _bilgi_
-<br><br>
+<br><br><br>
 
 ### Previous games
 
