@@ -1,6 +1,8 @@
 [< Back](../../..)
 <br><br>
 
+"Choose Your Own Adventure" game in GameLit genre **(Work in Progress)**
+
 [bilgi: roguelike trivia](../../../bilgiWeb) - Store links, terms of use and privacy policy
 
 [OpenBilgi](https://github.com/sekodev/OpenBilgi) - Repository for open source version of _bilgi: roguelike trivia_
@@ -10,20 +12,20 @@
 
 #### Released titles
 
-John Raven: The Curse of the Blue Butterfly ([Gameplay](https://youtu.be/EA6jV-IBJ6Y) / [Cinematic trailer](https://www.youtube.com/watch?v=r3gwMfLph1I))
+John Raven: The Curse of the Blue Butterfly ([Gameplay](https://youtu.be/EA6jV-IBJ6Y), [Amazon AppStore](https://www.amazon.com/dp/B00RVYHUW4), [Cinematic trailer](https://www.youtube.com/watch?v=r3gwMfLph1I))
 
-Tales of The Sanctuary ([Gameplay](https://youtu.be/mRIVhuGj0E8))
+Tales of The Sanctuary ([Gameplay](https://youtu.be/mRIVhuGj0E8), [Amazon AppStore](https://www.amazon.com/dp/B00HCIJB44)) - Remake of _The Sanctuary_
 
-Find My Stuff (alternative: _Hidden Objects: Where is my stuff?_)
+Find My Stuff ([Amazon AppStore](https://www.amazon.com/dp/B00KHTOAJG)) - Remake of _Hidden Objects: Where is my stuff?_
 
 Fantasy Streetball
 <br><br>
 
 #### Unreleased titles
 
-motus: endless run([First prototype](https://www.youtube.com/watch?v=TogeOJ11pWo), [Gameplay](https://www.youtube.com/watch?v=c1elh6DHSFo)) - Windows Phone game jam entry, soft-released on App Store
+motus: endless run([Early prototype](https://www.youtube.com/watch?v=TogeOJ11pWo), [Gameplay](https://www.youtube.com/watch?v=c1elh6DHSFo)) - Windows Phone game jam entry, soft-released on App Store
 
-sequence: test your reflexes
+sequence: test your reflexes([Early prototype](https://sleepybug.itch.io/row))
 
 Vi: Prisoner of Time (Global Game Jam 2015)
 <br><br>
