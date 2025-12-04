@@ -1,9 +1,9 @@
 [< Geri](../../..)
 <br><br>
 
-[bilgi](../../../bilgiWeb) - roguelike trivia game
+[bilgi: roguelike trivia](../../../bilgiWeb) - Store links, terms of use and privacy policy
 
-[OpenBilgi](https://github.com/sekodev/OpenBilgi) - Open source version of _bilgi_
+[OpenBilgi](https://github.com/sekodev/OpenBilgi) - Repository for open source version of _bilgi: roguelike trivia_
 <br><br><br>
 
 ### Previous games
