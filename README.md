@@ -1,3 +1,5 @@
+[Applications](apps/index.md)
+
 [Games](games/index.md)
 
 [GitHub](https://github.com/sekodev)
