@@ -1,4 +1,4 @@
-[Applications](apps/index.md)
+[Apps](apps/index.md)
 
 [Games](games/index.md)
 
